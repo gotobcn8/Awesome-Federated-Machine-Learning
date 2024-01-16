@@ -192,8 +192,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2211.14292.pdf">Analysis of Error Feedback in Federated Non-Convex Optimization with Biased Compression: Linear Speedup and Partial Participation</a></td>
         <td class=xl6519452 align="center">LinkedIn</td>
 		<td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
+Understanding How Consistency Works in Federated Learning via Stage-wise Relaxed Initialization	<tr height=19 style='height:14.25pt'>
 		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2206.10206.pdf">Personalized Subgraph Federated Learning</a></td>
         <td class=xl6519452 align="center">KAIST</td>
 		<td class=xl6519452 align="center"><a href="https://github.com/JinheonBaek/FED-PUB">code</a></td>
@@ -1337,7 +1336,7 @@ In this section, we will summarize Federated Learning papers accepted by top mac
 		<td class=xl6519452 align="center"><a href="https://github.com/L3030/DELTA_FL">code</a></td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/attachment?id=ylPX5D7It7&name=pdf">StableFDG: Style and Attention Based Learning for Federated Domain Generalization</a></td>
+		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openreview.net/attachment?id=IjZa2fQ8tL&name=pdf">StableFDG: Style and Attention Based Learning for Federated Domain Generalization</a></td>
 		<td class=xl6519452 align="center"><font size="2">KAIST</font></td>
 		<td class=xl6519452 align="center"></td>
 	</tr>
